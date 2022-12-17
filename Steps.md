@@ -12,3 +12,5 @@
 - hooks: createContext, useMemo
 
 --- 36:22 to XXX --- Appbar
+
+- google chrome extension pesticide to view css
