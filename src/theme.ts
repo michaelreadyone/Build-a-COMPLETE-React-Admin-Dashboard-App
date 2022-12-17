@@ -213,5 +213,5 @@ export const useMode = () => {
     () => createTheme(themeSettings(mode) as ThemeOptions),
     [mode]
   );
-  return [theme, colorMode];
+  return { theme, colorMode };
 };
