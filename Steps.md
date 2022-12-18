@@ -3,7 +3,7 @@
 --- start to 13:00--- code set up
 
 - install packages
-  `yarn add @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo`
+  `yarn add @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar formik yup @fullcalendar/core @fullcalendar/react @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo`
 
 --- 13:00 to 36:22 --- file folder structure and theme set up
 
@@ -24,3 +24,7 @@
 - Why Formik?
 - Yup vs Zod?
 - later try to change from Yup to Zod to practice.
+
+--- 2:21:28 to 2:48:55 --- Fullcalendar and According(FAQ)
+
+- [example for fullcalendar in typescript](https://codesandbox.io/s/react-typescript-fullcalendar-example-calendar-01-64jit?file=/src/App.tsx:1025-1034)
