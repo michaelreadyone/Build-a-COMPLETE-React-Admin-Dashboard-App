@@ -14,3 +14,7 @@
 --- 36:22 to XXX --- 1:26:50 Appbar, sidebar Dashboard initial setup
 
 - google chrome extension pesticide to view css
+
+--- 1:26:50 to 1:58:10 --- data Grid for Team, Contacts and Invoices
+
+- at Invoices, if you selected multiple rows, mui provides api for selected rows where you can pass any action into it, which will be useful
