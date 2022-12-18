@@ -18,3 +18,9 @@
 --- 1:26:50 to 1:58:10 --- data Grid for Team, Contacts and Invoices
 
 - at Invoices, if you selected multiple rows, mui provides api for selected rows where you can pass any action into it, which will be useful
+
+--- 1:58:10 to 2:21:28 --- Form with Formik and Yup
+
+- Why Formik?
+- Yup vs Zod?
+- later try to change from Yup to Zod to practice.
