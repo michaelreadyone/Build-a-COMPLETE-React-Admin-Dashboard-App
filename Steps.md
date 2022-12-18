@@ -11,6 +11,6 @@
 - trick in setting different mode: invert the levels from dark to light
 - hooks: createContext, useMemo
 
---- 36:22 to XXX --- Appbar
+--- 36:22 to XXX --- 1:26:50 Appbar, sidebar Dashboard initial setup
 
 - google chrome extension pesticide to view css
