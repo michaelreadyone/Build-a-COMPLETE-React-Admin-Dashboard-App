@@ -28,3 +28,10 @@
 --- 2:21:28 to 2:48:55 --- Fullcalendar and According(FAQ)
 
 - [example for fullcalendar in typescript](https://codesandbox.io/s/react-typescript-fullcalendar-example-calendar-01-64jit?file=/src/App.tsx:1025-1034)
+
+--- 2:48:55 to 3:22:54 Nivo charts ---
+
+- Nivo charts provide a webpage to tune different parameters and have code for that chart ready to be copied.
+- [Line chart](https://nivo.rocks/line/)
+
+--- 3:22:54 to XXX Dashboard ---
