@@ -35,3 +35,7 @@
 - [Line chart](https://nivo.rocks/line/)
 
 --- 3:22:54 to XXX Dashboard ---
+
+--- more work to do ---
+make webpage more responsive
+transfer to my project
